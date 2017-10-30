@@ -6,8 +6,11 @@
 package pruebajava1;
 
 /**
- *
+ * Mariane Muñoz Gonzalez
+ *Fecha 30 de Octubre 2017
  * @author LC22
+ * Clase PruebaJava1
+ * Responsabilidad Clase Principal
  */
 public class PruebaJava1 {
 
