@@ -8,7 +8,7 @@ import java.util.Scanner;
 /********************************************************************
  * Fecha 30 de Octubre 2017
  * @author LC22
- * Clase PruebaJava1
+ * Clase AreaRectangulo
  * Responsabilidad Clase Principal
  ********************************************************************/
 public class AreaRectangulo 
